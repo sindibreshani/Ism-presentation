@@ -1,0 +1,287 @@
+<!doctype html>
+<html>
+<title>page2</title>
+
+<head>
+
+<style>
+
+.today 
+
+		
+		h1 {
+			font-size: 13px;
+			font-family: century gothic;
+			color:#a2a2a2;
+			position:absolute;
+			left:30px;
+			top:-5px;
+
+			}
+			h2 {
+			font-size: 12px;
+			font-family: century gothic;
+			color:#a2a2a2;
+			position:absolute;
+			left:30px;
+			top:10px;
+
+			}
+			
+
+	.gif3 {
+		position:absolute;
+		left:50px;
+		top:275px;
+		transition:1s;
+	}
+	.gif2 {
+		position:absolute;
+		left:220px;
+		top:55px;
+		transition:1s;
+	}
+	.gif9 {
+		position:absolute;
+		left:400px;
+		top:90px;
+		transition:1s;
+	}
+	.gif {
+		position:absolute;
+		left:240px;
+		top:265px;
+		transition:1s;
+	}
+	 
+	.gif4 {
+		position:absolute;
+		left:60px;
+		top:75px;
+		transition:1s;
+	}
+	.gif5 {
+		position:absolute;
+		left:470px;
+		top:490px;
+		transition:1s;
+	}
+	.gif6 {
+		position:absolute;
+		left:463px;
+		top:277px;
+		transition:1s;
+	}
+		.gif7 {
+		position:absolute;
+		left:53px;
+		top:490px;
+		transition:1s;
+	}
+		.gif8 {
+		position:absolute;
+		left:278px;
+		top:470px;
+		transition:1s;
+	}
+
+	.data {
+		position:absolute;
+		left:750px;
+		top:190px;
+		
+	}
+	.distance {
+		position: absolute;
+		left: 1080px;
+		top: 100px;
+
+	}
+
+
+    
+    
+.ism 
+		
+		{
+			position:relative;
+			left:400px;
+			top: 3px;
+
+			}
+			
+
+	.about 
+
+		a {
+			font-size: 13px;
+			font-family: century gothic;
+			color: #515151;
+			position: absolute;
+			left: 770px;
+			top : 5px;
+			}
+			a:hover { 
+
+							color:#b5b4b4
+	}
+
+
+
+	a:link { text-decoration: none;
+	}
+	a:visited { text-decoration: none;
+	}
+
+	.team 
+
+		a {
+			font-size: 13px;
+			font-family: century gothic;
+			color: #515151;
+			position: absolute;
+			left: 820px;
+			top : 5px;
+			}
+			a:hover { 
+
+							color:#b5b4b4
+	}
+		a:link { text-decoration: none;
+	}
+	a:visited { text-decoration: none;
+	}
+
+	.rules
+
+		a {
+			font-size: 13px;
+			font-family: century gothic;
+			color: #515151;
+			position: absolute;
+			left: 890px;
+			top : 5px;
+			}
+			a:hover { 
+
+							color:#b5b4b4
+	}
+		a:link { text-decoration: none;
+	}
+	a:visited { text-decoration: none;
+	}
+
+	.events
+
+		a {
+			font-size: 13px;
+			font-family: century gothic;
+			color: #515151;
+			position: absolute;
+			left: 935px;
+			top : 5px;
+			}
+			a:hover { 
+
+							color:#b5b4b4
+	}
+		a:link { text-decoration: none;
+	}
+	a:visited { text-decoration: none;
+	}
+
+
+	.social {
+		position: absolute;
+		left: 1100px;
+		top: 5px;
+
+	}
+
+
+	
+}
+</style>
+
+</head>
+
+<body>
+
+<div class = "ism">
+	<a href="presentation">
+	<img src ="ism/title.png" width="333px" height="77px">
+	</a> </div>
+				<div class = "about">
+                  <a HREF="#about">about</a>	
+					
+				</div>
+				<div class = "team">
+					<a href="www.google.com">the team</a>
+				</div>
+				<div class = "rules">
+					<a href="www.google.com">rules</a>
+				</div>
+				<div class = "events">
+					<a href="www.google.com">research</a>
+				</div>
+
+				<div class = "social">
+					<a href="repetitionism.tumblr.com">
+ 		 <img src ="ism/social.png" width="18.6px" height="18.6px">
+					</a>
+					
+					
+				</div>
+<div class = "today">
+		
+					<p> <h1> Thursday, 3 November 2016 </h1> </p>
+					<p> <h2> Today </h2> </p>
+					</div>
+			
+
+				
+				<div class = "gif2">
+					<img src="ism/sahar.gif" width="183.5px" height="212px">
+				</div>
+				<div class = "gif9">
+					<img src="ism/final.gif" width="253.4px" height="165.9px">
+				</div>
+				<div class = "gif">
+					<img src="ism/hand2.gif" width="210.5px" height="196px">
+				</div>
+				<div class = "gif3">
+					<img src="ism/sindi.gif" width="177.5px" height="209px">
+				</div>
+				<div class = "gif4">
+					<img src="ism/japanese.gif" width="168px" height="194.5px">
+				</div>
+				<div class = "gif5">
+					<img src="ism/oscar.gif" width="225px" height="197.5px">
+				</div>
+				<div class = "gif6">
+					<img src="ism/wave-1.gif" width="223.4px" height="209.2px">
+				</div>
+				<div class = "gif7">
+					<img src="ism/wave-2.gif" width="213.3px" height="209.1px">
+				</div>
+				<div class = "gif8">
+					<img src="ism/hug.gif" width="178.5px" height="269.5px">
+				</div>
+				<div class = "data">
+					<img src="ism/data2.gif" width="356px" height="442px">
+				</div>
+				<div class = "distance">
+					<img src="ism/mm.png" width="196.5px" height="7px">
+				</div>
+
+
+
+				
+					
+
+
+	</body>
+
+
+
+</html>

@@ -1,0 +1,187 @@
+<!doctype html>
+<html>
+<title>manifesto</title>
+
+<head>
+
+<style>
+
+
+
+.manifesto {
+		position:absolute;
+		left:240px;
+		top:100px;
+		transition:1s;
+	}
+
+
+.today 
+
+		
+		h1 {
+			font-size: 13px;
+			font-family: century gothic;
+			color:#a2a2a2;
+			position:fixed;
+			left:30px;
+			top:-5px;
+
+			}
+			h2 {
+			font-size: 12px;
+			font-family: century gothic;
+			color:#a2a2a2;
+			position:fixed;
+			left:30px;
+			top:10px;
+
+			}
+
+			.ism 
+		
+		{
+			position:relative;
+			left:400px;
+			top: 3px;
+
+			}
+			
+
+	.about 
+
+		a {
+			font-size: 13px;
+			font-family: century gothic;
+			color: #515151;
+			position: absolute;
+			left: 770px;
+			top : 5px;
+			}
+			a:hover { 
+
+							color:#b5b4b4
+	}
+
+
+
+	a:link { text-decoration: none;
+	}
+	a:visited { text-decoration: none;
+	}
+
+	.team 
+
+		a {
+			font-size: 13px;
+			font-family: century gothic;
+			color: #515151;
+			position: absolute;
+			left: 820px;
+			top : 5px;
+			}
+			a:hover { 
+
+							color:#b5b4b4
+	}
+		a:link { text-decoration: none;
+	}
+	a:visited { text-decoration: none;
+	}
+
+	.rules
+
+		a {
+			font-size: 13px;
+			font-family: century gothic;
+			color: #515151;
+			position: absolute;
+			left: 890px;
+			top : 5px;
+			}
+			a:hover { 
+
+							color:#b5b4b4
+	}
+		a:link { text-decoration: none;
+	}
+	a:visited { text-decoration: none;
+	}
+
+	.events
+
+		a {
+			font-size: 13px;
+			font-family: century gothic;
+			color: #515151;
+			position: absolute;
+			left: 935px;
+			top : 5px;
+			}
+			a:hover { 
+
+							color:#b5b4b4
+	}
+		a:link { text-decoration: none;
+	}
+	a:visited { text-decoration: none;
+	}
+
+
+	.social {
+		position: absolute;
+		left: 1100px;
+		top: 5px;
+
+	}
+	.distance {
+		position: absolute;
+		left: 1080px;
+		top: 600px;
+
+	}
+
+</style>
+
+
+<body>
+<div class = "ism">
+	<a href="presentation">
+	<img src ="ism/title.png" width="333px" height="77px">
+	</a> </div>
+				<div class = "about">
+                  <a HREF="#about">about</a>	
+					
+				</div>
+				<div class = "team">
+					<a href="www.google.com">the team</a>
+				</div>
+				<div class = "rules">
+					<a href="www.google.com">rules</a>
+				</div>
+				<div class = "events">
+					<a href="www.google.com">research</a>
+				</div>
+
+				<div class = "social">
+					<a href="repetitionism.tumblr.com">
+ 		 <img src ="ism/social.png" width="18.6px" height="18.6px">
+					</a>
+					
+					
+				</div>
+<div class = "today">
+		
+					<p> <h1> Thursday, 3 November 2016 </h1> </p>
+					<p> <h2> Today </h2> </p>
+					</div>
+					<div class = "distance">
+					<img src="ism/mm.png" width="196.5px" height="7px">
+				</div>
+				<div class = "manifesto">
+					<img src="ism/book.gif" width="806.5px" height="550px">
+				</div>
+			
+</body>
+
+</html>
